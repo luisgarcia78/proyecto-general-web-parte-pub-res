@@ -189,7 +189,7 @@ header {
   width: 80%;
   margin: 0 auto;
 }
- /* css para ocultar tanto los lebal y los input */
+ /* css para ocultar tanto los lebal y los input  Inicio del las ids luis A  */
 #RFCvent{
   display: none;
 }
@@ -208,6 +208,7 @@ display: none;
 #direccionlebal{
   display: none;
 }
+/* css para ocultar los label y los input inicio de las ids Luis A */
 
 /**** header desktop ****/
 @media (min-width: 1024px) {
